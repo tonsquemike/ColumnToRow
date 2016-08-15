@@ -1,0 +1,2 @@
+-IN /test/
+-OUT /test/outTest/
